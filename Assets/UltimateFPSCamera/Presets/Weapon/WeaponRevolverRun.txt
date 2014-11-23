@@ -1,0 +1,24 @@
+///////////////////////////////////////////////////////////
+// Component Preset Script
+///////////////////////////////////////////////////////////
+
+ComponentType vp_FPSWeapon
+PositionOffset 0.185 -0.2290937 0.496078
+RenderingClippingPlanes 0.36 10
+PositionSpringDamping 0.55
+PositionFallRetract 0
+PositionPivotSpringDamping 0.55
+PositionWalkSlide 1 1 0.5
+PositionPivot -0.0525 -0.045 -0.2741375
+RotationOffset 19.92 -6 0
+RotationSpringDamping 0.55
+RotationLookSway 0.5 2 0
+RotationFallSway 2 0 -3
+BobRate 0.7 1.4 0.7 0.7
+BobAmplitude 180 150 120 -4
+PositionInputVelocityScale 2.5
+PositionMaxInputVelocity 25
+BobInputVelocityScale 1
+BobMaxInputVelocity 5.5
+ShakeSpeed 0
+PositionExitOffset 0 -0.5 0

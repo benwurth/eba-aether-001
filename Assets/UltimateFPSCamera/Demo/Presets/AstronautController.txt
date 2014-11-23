@@ -1,0 +1,15 @@
+///////////////////////////////////////////////////////////
+// Component of type 'FPSController'
+///////////////////////////////////////////////////////////
+
+ComponentType vp_FPSController
+MotorAcceleration 0.018
+MotorDamping 0.0272727
+MotorJumpForce 0.35
+MotorAirSpeed 1
+MotorSlopeSpeedUp 1
+MotorSlopeSpeedDown 1
+PhysicsForceDamping 0.05
+PhysicsPushForce 5
+PhysicsGravityModifier 0.0413636
+PhysicsWallBounce 1
