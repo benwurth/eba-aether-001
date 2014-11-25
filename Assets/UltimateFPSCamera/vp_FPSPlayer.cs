@@ -670,10 +670,10 @@ public class vp_FPSPlayer : MonoBehaviour
 	{
 
 		// uncomment this snippet to display a simple 'Health' HUD
-		//GUI.Box(new Rect(10, Screen.height - 30, 100, 20), "Health: " + (int)(m_Health * 10) + "%");
+		GUI.Box(new Rect(10, Screen.height - 30, 100, 20), "Health: " + (int)(m_Health * 10) + "%");
 
 		// uncomment this snippet to display a simple 'Ammo' HUD
-		//GUI.Box(new Rect(Screen.width - 110, Screen.height - 30, 100, 20), "Ammo: " + CurrentShooter.AmmoCount);
+		GUI.Box(new Rect(Screen.width - 110, Screen.height - 30, 100, 20), "Ammo: " + CurrentShooter.AmmoCount);
 
 	}
 
